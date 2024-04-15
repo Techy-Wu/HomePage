@@ -275,7 +275,16 @@ body {
 }
 
 .cmd2 .cmdText .ul2 {
-    margin-left: 30px;
+    margin-left: 45px;
+}
+
+.cmd2 .cmdText .ul2 a {
+    text-decoration: none;
+    color: rgb(88, 89, 92);
+}
+
+.cmd2 .cmdText .ul2 a:hover {
+    color: rgb(0, 132, 255);
 }
 
 #footer {
