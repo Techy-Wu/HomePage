@@ -44,7 +44,7 @@ body {
 .headPhoto {
     width: 8rem;
     height: 8rem;
-    background: url("./img/avatar.jpg") no-repeat;
+    background: url("me.techywu.top/img/avatar.jpg") no-repeat;
     background-size: cover;
     border-radius: 50%;
     position: relative;
