@@ -35,7 +35,7 @@ body {
 }
 
 .meBox:hover {
-    width: 25rem;
+    width: 26rem;
     height: 26rem;
     margin: 95px 0 0 -5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.4);
@@ -58,7 +58,7 @@ body {
     width: 9rem;
     height: 9rem;
     margin: -0.5rem 0 0 -4.5rem;
-    transform: rotate(360deg);
+    transform: rotate(30deg);
 }
 
 .headPhoto:hover {
@@ -319,7 +319,7 @@ body {
     }
 
     .meBox:hover {
-        width: 25rem;
+        width: 26rem;
         height: 26rem;
         margin: 95px 0 0 2.5%;
     }
@@ -336,7 +336,7 @@ body {
     }
 
     .meBox:hover {
-        width: 25rem;
+        width: 26rem;
         height: 25rem;
         margin: 105px auto 100px;
     }
@@ -366,11 +366,11 @@ body {
 
 @media screen and (max-width: 768px) {
     .meBox {
-        width: 300px;
+        width: 23rem;
     }
 
     .meBox:hover {
-        width: 300px;
+        width: 26rem;
         height: 25rem;
         margin: 100px auto 100px;
     }
@@ -392,7 +392,7 @@ body {
         width: 8rem;
         height: 8rem;
         margin: -0.5rem 0 0 -4rem;
-        transform: rotate(360deg);
+        transform: rotate(30deg);
     }
 
     .meBox:hover .meBox-text {
