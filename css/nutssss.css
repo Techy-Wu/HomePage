@@ -144,7 +144,7 @@ body {
 .meBox-Button a {
     display: inline-block;
     float: left;
-    width: 105px;
+    width: 30%;
     height: 50px;
     margin-top: 13px;
     line-height: 50px;
@@ -159,7 +159,7 @@ body {
 }
 
 .meBox:hover .meBox-Button a {
-    width: 110px;
+    width: 30%;
     margin-top: 10px;
 }
 
@@ -342,7 +342,7 @@ body {
     }
 
     .meBox:hover .meBox-Button a {
-        width: 110px;
+        width: 30%;
         height: 50px;
         margin-top: 13px;
     }
@@ -380,7 +380,7 @@ body {
     }
 
     .meBox:hover .meBox-Button a {
-        width: 110px;
+        width: 30%;
         margin-top: 13px;
     }
 
