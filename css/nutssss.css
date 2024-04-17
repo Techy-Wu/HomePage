@@ -329,7 +329,7 @@ body {
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .meBox {
         float: none;
         margin: 100px auto 100px;
