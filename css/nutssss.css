@@ -293,7 +293,7 @@ body {
     float: left;
     text-align: center;
     /*position: fixed;*/
-    position: relative;
+    position: fixed;
     bottom: 0;
     margin-bottom: 30px;
     /* background-color: blue; */
