@@ -289,7 +289,7 @@ body {
 
 #container-wrap {
     padding-bottom: 2.5rem;
-    height: 100%;
+    flex: 1;
     position: relative;
 }
 
