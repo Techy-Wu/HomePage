@@ -288,9 +288,7 @@ body {
 }
 
 #container-wrap {
-    padding-bottom: 2.5rem;
     flex: 1;
-    position: relative;
 }
 
 #footer {
