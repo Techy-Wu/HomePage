@@ -289,7 +289,7 @@ body {
 
 #container-wrap {
     padding-bottom: 2.5rem;
-    min-height: 100%;
+    height: 100%;
 }
 
 #footer {
