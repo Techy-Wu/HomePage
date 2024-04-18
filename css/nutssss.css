@@ -292,8 +292,7 @@ body {
     color: white;
     float: left;
     text-align: center;
-    /*position: fixed;*/
-    position: absolute;
+    position: fixed;
     bottom: 0;
     margin-bottom: 30px;
     /* background-color: blue; */
@@ -326,6 +325,7 @@ body {
 
     #cmdBox {
         margin-right: 3%;
+        padding-bottom: 100px;
     }
 }
 
@@ -406,6 +406,7 @@ body {
     #cmdBox {
         width: 100%;
         height: 850px;
+        padding-bottom: 100px;
     }
 
     .cmd {
