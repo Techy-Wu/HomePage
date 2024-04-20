@@ -1,17 +1,17 @@
 # 关于本页
 
-从 [n0tssss/NutssssIndex](https://github.com/n0tssss/NutssssIndex) fork得到
+forked 自 [n0tssss/NutssssIndex](https://github.com/n0tssss/NutssssIndex) 
 
 简约的个人主页、自适应
 
 bash 风格
 
-## 实现链接
+## 网站地址
 
 [me.techywu.top](https://me.techywu/top)
 
-## 使用方法
+## 本站实现方法
 
-git pull 到服务器实现
+使用 webhook 工具监听 git push 
 
-使用 webhook 监听 git push 实现实时更新
+搭配git pull 到服务器实现实现实时更新
